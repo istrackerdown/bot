@@ -1,5 +1,6 @@
 import requests
 import time
+import twitter
 
 derp = 0
 ''' function to monitor up time '''
